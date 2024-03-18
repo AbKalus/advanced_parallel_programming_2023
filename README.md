@@ -1,6 +1,6 @@
 # Advanced and Parallel Programming
 
-[UNITS webpage]([http://www.math.sissa.it/course/phd-course-master-course/advanced-programming-2](https://corsi.units.it/sm30/modulo/2023/308905/af_gen_cod/270sm)https://corsi.units.it/sm30/modulo/2023/308905/af_gen_cod/270sm)
+[UNITS webpage]((https://corsi.units.it/sm30/modulo/2023/308905/af_gen_cod/270sm)https://corsi.units.it/sm30/modulo/2023/308905/af_gen_cod/270sm)
 
 The course aims to provide advanced knowledge of both theoretical and practical programming in C and Python3, with particular regard to the principles of parallel programming and object-oriented programming and best practices of software development.
 
