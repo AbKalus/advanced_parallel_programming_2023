@@ -27,25 +27,25 @@ How the architecture of modern computers influences performance, with references
 Efficient algorithms and data structures on modern architectures and how to evaluate their performance
 
 ## Extended program
--Memory hierarchies and cache behavior of modern processors, as examples of existing processors
--Concept of memory locality and its influence on performances
--Pipeline and branch prediction. Performance effect of branch misprediction
--Measurement of program performances
--Data structures and algorithms that make use of the concepts of memory locality, with examples and comparisons
--Threads and mutexes using the pthread library (review)
--Parallelism and performances: theory
--Effects of locks on performances: lock contention
--Performance measurement of multithreaded parallel programs
--Design of data structures and locking mechanisms
--Using external code in Python: motivations and library examples
--The numpy library in Python
--Object-oriented programming in Python: classes and methods
--Object-oriented programming in Python: Inheritance and polymorphism
--Decorators in Python
--Introduction to functional programming concepts and their application in Python
--Good code management practices
--Mechanisms for parallel programming, notion of lock contention and the effect of locks on performance
--Using high-performance libraries in Python, especially the numpy library.
--Object-oriented programming paradigm in Python. The notions of object and class, inheritance and polymorphism will be covered. You will also see language-specific features such as decorators
--Notes on other existing programming paradigms, e.g., the functional paradigm
--How to make code maintainable and how to use version control systems
+- Memory hierarchies and cache behavior of modern processors, as examples of existing processors
+- Concept of memory locality and its influence on performances
+- Pipeline and branch prediction. Performance effect of branch misprediction
+- Measurement of program performances
+- Data structures and algorithms that make use of the concepts of memory locality, with examples and comparisons
+- Threads and mutexes using the pthread library (review)
+- Parallelism and performances: theory
+- Effects of locks on performances: lock contention
+- Performance measurement of multithreaded parallel programs
+- Design of data structures and locking mechanisms
+- Using external code in Python: motivations and library examples
+- The numpy library in Python
+- Object-oriented programming in Python: classes and methods
+- Object-oriented programming in Python: Inheritance and polymorphism
+- Decorators in Python
+- Introduction to functional programming concepts and their application in Python
+- Good code management practices
+- Mechanisms for parallel programming, notion of lock contention and the effect of locks on performance
+- Using high-performance libraries in Python, especially the numpy library.
+- Object-oriented programming paradigm in Python. The notions of object and class, inheritance and polymorphism will be covered. You will also see language-specific features such as decorators
+- Notes on other existing programming paradigms, e.g., the functional paradigm
+- How to make code maintainable and how to use version control systems
